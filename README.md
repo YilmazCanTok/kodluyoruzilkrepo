@@ -18,7 +18,7 @@ Linux için:
  ## Contributing
  ---------------------------------------------------------------------------------------------------------------------------
  Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
- ![Loren Picsum Gorsel : ](https://www.google.com/search?q=aslan+resmi&sxsrf=AOaemvKiPyfZyXNLXxOVb2rlr1mV3ZNTmw:1640889597988&source=lnms&tbm=isch&sa=X&sqi=2&ved=2ahUKEwiGyOmMloz1AhV7SmwGHawYB_0Q_AUoAXoECAEQAw&biw=1920&bih=961&dpr=1#imgrc=HtZrUdB4BE6gsM)
+ ![Loren Picsum Gorsel : ](https://www.yabanihayvanlar.com/wp-content/uploads/2019/05/aslan.jpg)
 
  ## License 
  ---------------------------------------------------------------------------------------------------------------------------
